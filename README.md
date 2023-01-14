@@ -10,7 +10,7 @@ I am also in the middle of a course on the basics of:
  - Python  
  - Postman  
   
-A freelance position at a previous job taught me great time organisation, an out-of-the-box approach to problem solving and accuracy. I am currently looking for a job where I can use my skills and further improve as a software tester.
+A freelance position at a previous job taught me great time organisation, an out-of-the-box approach to problem solving and accuracy. I am looking for a job where I can use my skills and further improve as a software tester.
 
 ## 🔭 Tools & skills
  - ISTQB: Foundation Level (18442/CTFL/2022)
