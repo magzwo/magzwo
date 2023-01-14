@@ -4,7 +4,7 @@
 **Get in touch:** [![Linkedin Badge](https://img.shields.io/badge/-mzwolska-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/magdalena-zwolska)](https://www.linkedin.com/in/magdalena-zwolska) [![Gmail Badge](https://img.shields.io/badge/-m.zwolska94@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:m.zwolska94@gmail.com)](mailto:m.zwolska94@gmail.com)
 --------------
 ## 🧐 About
-Meticulous, inquisitive and patient Junior Software Tester with experience in the televizion and NGO industry. I am currently doing a internship at TVP S.A.  
+Meticulous, inquisitive and patient Junior Software Tester with experience in the televizion and NGO industry. I am currently working at TVP S.A.
   
 I am also in the middle of a course on the basics of:  
  - Python  
