@@ -4,13 +4,9 @@
 **Get in touch:** [![Linkedin Badge](https://img.shields.io/badge/-mzwolska-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/magdalena-zwolska)](https://www.linkedin.com/in/magdalena-zwolska) [![Gmail Badge](https://img.shields.io/badge/-m.zwolska94@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:m.zwolska94@gmail.com)](mailto:m.zwolska94@gmail.com)
 --------------
 ## 🧐 About
-Meticulous, inquisitive and patient Junior Software Tester with experience in the television and NGO industry. I am currently working at TVP S.A.
-  
-I am also in the middle of a course on the basics of:  
- - Python  
- - Postman  
-  
-A freelance position at a previous job taught me great time organisation, an out-of-the-box approach to problem solving and accuracy. I am looking for a job where I can use my skills and further improve as a software tester.
+Currently I`m working in the media industry and testing products that are used by millions of users every day. I perform manual tests and improve my teamwork skills. In my company I work in several projects at the same time, so organization and precision are my strengths. 
+Constantly I`m developing, recently I took a REST API Testing course in Postman. In the future I plan to become an automation tester. 
+I`m ready to take on new challenges!
 
 ## 🔭 Tools & skills
  - ISTQB: Foundation Level (18442/CTFL/2022)
@@ -26,8 +22,10 @@ A freelance position at a previous job taught me great time organisation, an out
 
 
 ## 🎓 Courses
- - Akademia Testowania- testuj.pl
- - sprintED: zostań testerką- INCO Academy
+- Inco Academy- Get into QA | 05.2023- present
+- Akademiaqa.pl Bartosz Kita- Testing the REST API in Postman | 01.2023 
+- Testuj.pl Testing Academy & SQL | 04.2022- 05.2022
+- Inco Academy- sprintED: become a tester | 05.2022
 
 ## My projects
 
