@@ -25,7 +25,7 @@ Currently I am  working in the media industry and testing products that are used
 - Testuj.pl Testing Academy & SQL | 04.2022- 05.2022
 - Inco Academy- sprintED: become a tester | 05.2022
 
-## My projects
+## ☕️ My projects
 
  - [Test scenarious](https://docs.google.com/spreadsheets/d/1Zzf-aFM5b9UeZD-qnjKjLaO24CWI5Arq_twww6zf2ps/edit#gid=0)
  - [Bug report](https://docs.google.com/document/d/1kdcdsZOWNPV2pMbLCxS2_exVLj3wK-CrjnoalG3I7Cg/edit)
